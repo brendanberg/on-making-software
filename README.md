@@ -20,9 +20,13 @@ Issues sections on GitHub.
 
 ## Contents
 
+1. Ego
 1. Process
-1. Writing Specifications
+1. Writing
+
+1. The Specification
 1. The Proof-of-Concept
-1. Maintainability
 1. The Code Review
-1. Documentation
+1. The Documentation
+
+1. Maintainability
